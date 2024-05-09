@@ -1,0 +1,38 @@
+body
+{
+  color: white;
+  background: rgb(255,0,0);
+  background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(10,0,255,1) 100%); 
+}
+span
+{
+  font-size: 30px;
+}
+.heading
+{
+  font-size: 22px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+#camera , #result
+{
+  border: 2px solid rebeccapurple;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.btn
+{
+  font-size: 150%;
+}
